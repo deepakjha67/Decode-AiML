@@ -20,7 +20,7 @@ This repository is organized into modular sections to help you **learn progressi
 | 03         | [DSA Coding Practice - Basic to Advanced](https://decodeaiml.com/03.%20DSA%20Coding%20Practice%20-%20Basic%20to%20Advanced)                        | ⏳ In Progress     |
 | 04         | [Complete NumPy - Basic to Advanced](https://decodeaiml.com/04.%20Complete%20NumPy%20-%20Basic%20to%20Advanced)                              | ✅ Complete       |
 | 05         | [Complete Pandas - Basic to Advanced](https://decodeaiml.com/05.%20Complete%20Pandas%20-%20Basic%20to%20Advanced)                              | ⏳ In Progress    |
-| 06         | [ML Coding Practice - Basic to Advanced                        | 🔄 Loading...     |
+| 06         | ML Coding Practice - Basic to Advanced                        | 🔄 Loading...     |
 | 07         | Calculus and Optimization - Basic to advanced                  | 🔄 Loading...     |
 | 08         | Linear Algebra - Basic to advanced                             | 🔄 Loading...     |
 | 09         | Statistics and Probability - Basic to advanced                 | 🔄 Loading...     |
