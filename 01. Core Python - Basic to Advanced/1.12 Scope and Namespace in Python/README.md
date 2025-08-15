@@ -25,7 +25,7 @@
 
 ---
 
-**Lecture 1.12.2) [Bonus] Namespace in Python Explained | Global, Local, Built-in & LEGB Rule | Hindi**
+**Lecture 1.12.2) [Bonus] Namespace in Python Explained - Global, Local, Built-in & LEGB Rule - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/Kf8icDQE2Pc?si=mrmLFZfkbuiKEUEy)
 
@@ -59,6 +59,7 @@ We're not your average tutorial channel. Decode AiML is built by IIT alumni with
 🎓 Our mission is simple:
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
+
 
 
 
