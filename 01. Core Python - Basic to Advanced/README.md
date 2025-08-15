@@ -1,4 +1,4 @@
-## Section 01 - Decode Python for ML A2Z
+## Section 01 - Core Python - Basic to Advanced
 
 Welcome to the series - **Decode Python for ML A2Z**. We're laying the foundation for a focused, streamlined, and highly relevant course—designed to help you crack top AI roles at MAANG and leading startups. And the best part? It's absolutely FREE!
 
