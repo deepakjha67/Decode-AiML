@@ -12,10 +12,13 @@ This repository is organized into modular sections to help you **learn progressi
 
 | 📦 Section | 📘 Title                                             | 🧭 Status         |
 |------------|------------------------------------------------------|-------------------|
-| 01         | [Getting Started ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.01%20Getting%20Started)                                    | ✅ Complete       |
-| 02         |  [Introduction to DSA ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.02%20Introduction%20to%20DSA)                             |  ✅ Complete      |
-| 03         | [Introduction to Time and Space Complexity ](https://decodeaiml.com/Section%2002%20-%20Decode%20DSA%20with%20Python%20A2Z/2.03%20Introduction%20to%20Time%20and%20Space%20Complexity)              |  ✅ Complete       |
-
+| 01         | [Getting Started ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.01%20Getting%20Started)                                    | ✅ Complete       |
+| 02         |  [Introduction to DSA ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.02%20Introduction%20to%20DSA)                             |  ✅ Complete      |
+| 03         | [Introduction to Time and Space Complexity ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.03%20Introduction%20to%20Time%20and%20Space%20Complexity)              |  ✅ Complete       |
+| 04         | [Dynamic Array ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.04%20Dynamic%20Array%20Explained)              |  ✅ Complete       |
+| 05         | [Tower of Hanoi ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.05%20Tower%20of%20Hanoi)              |  ✅ Complete       |
+| 06         | [Stack and Deque ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.06%20Stack%20and%20Queue%20Data%20Structure)              |  ✅ Complete       |
+| 07         | [Dequeue Data Structure ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.07%20Dequeue%20Data%20Structure)              |  ✅ Complete       |
 
 ---
 
