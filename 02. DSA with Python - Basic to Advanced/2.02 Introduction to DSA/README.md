@@ -11,8 +11,6 @@
 
 **Video Description**:
 
-Welcome to the Decode AiML DSA Series! In this video, we introduce our approach to mastering Data Structures and Algorithms (DSA) using Python. Learn about your mentor, the must-know Python concepts before diving into DSA, and how this course will guide you toward interviews and real-world problem-solving.
-
 📘 Topics Covered:
 1. Introduction to Data Structures and Algorithms (DSA)
 2. Program vs Algorithm Explained with Examples
@@ -37,6 +35,7 @@ We're not your average tutorial channel. Decode AiML is built by IIT alumni with
 🎓 Our mission is simple:
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
+
 
 
 
