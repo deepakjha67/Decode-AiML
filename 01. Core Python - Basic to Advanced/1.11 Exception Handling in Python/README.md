@@ -2,7 +2,7 @@
 
 ---
 
-**Lecture 1.11.1) Exception Handling in Python | try-except-finally-else | Errors vs Exceptions | Hindi**
+**Lecture 1.11.1) Exception Handling in Python - try-except-finally-else - Errors vs Exceptions - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/4cyp33jiqyc?si=FSZH2fyyZV8Mo27E)
 
@@ -24,7 +24,7 @@ In this video from the Decode AiML Python Series, we explore exception handling 
 
 ---
 
-**Lecture 1.11.2) Custom Exceptions in Python | Real-World Exception Handling Examples | Hindi**
+**Lecture 1.11.2) Custom Exceptions in Python - Real-World Exception Handling Examples - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/fZPMALyi9mE?si=r0l1M9BkpzrfhxWi)
 
@@ -58,6 +58,7 @@ We're not your average tutorial channel. Decode AiML is built by IIT alumni with
 🎓 Our mission is simple:
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
+
 
 
 
