@@ -1,11 +1,11 @@
-## 2.4 Dynamic Array Explained
+## 2.5 Tower of Hanoi
 ---
 
-**Lecture 2.1) Tower of Hanoi using Recursion - Time & Space Complexity - DSA in Python - Hindi**
+**Lecture 2.5) Tower of Hanoi using Recursion - Time & Space Complexity - DSA in Python - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/xlUc3ib08yM?si=30vyCzSnM4r0bdQt)
 
-**Notes Link** : [Dynamic Array Explained](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.05%20Tower%20of%20Hanoi)
+**Notes Link** : [Tower of Hanoi](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.05%20Tower%20of%20Hanoi)
 
 
 **Video Description**:
