@@ -109,6 +109,106 @@ Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-
 ---
 
 
+**Lecture 4.6) Dimension, Shape, Axis, Vectorization & Broadcasting in NumPy - Explained with Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/7iJ7OeRLazE?si=iKgYATZ9muBkatIy)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+1. Understanding Dimensions in NumPy Arrays
+2. Shape & Axis in NumPy Explained
+3. Broadcasting in NumPy with Examples and its Rules
+4. Vectorization in NumPy with Examples and Key Advantages
+5. Performance Comparison: Vectorization vs Traditional Loops
+
+#NumPy #PythonDSA #MachineLearning #DataScience #Vectorization #Broadcasting #PythonTutorial #PythonHindi #ArrayOperations #PythonProgramming #DecodeAiML
+
+---
+
+
+**Lecture 4.7) Hands-on Indexing, Slicing & Subsetting in NumPy - Explained with Examples - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/HtljDoF778k?si=C4R9RywCQaopZMvb)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+1. Indexing with examples for NumPy arrays
+2. Slicing with examples for NumPy arrays
+3. Subsetting with examples for NumPy arrays
+4. Views vs Copy in NumPy explained with examples
+5. sort() and max() in NumPy Explained
+
+#NumPy #PythonDSA #DataScience #NumPyIndexing #NumPySlicing #NumPyTutorial #PythonProgramming #DSAInPython #PythonHindi #CodingForBeginners #DecodeAiML
+
+---
+
+**Lecture 4.8) Hands-On Maths on NumPy Arrays | Built-In Maths Functions | Broadcasting explained | Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/UAsuR18DuK0?si=aplOcSd95zQjqBZ_)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+1. Mathematical operators on Numpy Array
+2. Broadcasting explained with examples
+3. Built-in function in Numpy explained with examples
+4. Add, Subtract, Multiply, Divide, Exp, sqrt and Log operations
+
+#NumPy #PythonDSA #MathWithNumPy #Broadcasting #PythonProgramming #NumPyTutorial #NumPyMath #PythonHindi #DSAInPython #CodingForBeginners #DecodeAiML
+
+---
+
+**Lecture 4.9) NumPy Statistics & Linear Algebra - Axis Explained - Built-in Functions - Hands-On - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/w6azl3z_mig?si=rqnRr9_uDK1g55HW)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+1. Statistics methods: Mean, Median, Mode, Variance, Standard Deviation
+2. Correlation and Covariance explained
+3. Scatter plot using Matplotlib for correlation
+4. Axis explained with NumPy examples
+5. Percentile and Quantile explained with built-ins
+6. Linear Algebra methods: Sum, Product, Diagonals, Trace, Transpose
+7. Dot, Inner, and Outer product explained with examples
+
+#NumPy #PythonDSA #NumPyStatistics #NumPyLinearAlgebra #AxisInNumPy #PythonProgramming #NumPyTutorial #PythonHindi #DSAInPython #CodingForBeginners #NumPyMath #DataScienceWithPython #decodeAiML
+
+---
+
+
+**Lecture 4.10) NumPy Built-in Functions - ravel, moveaxis, squeeze, concatenate, stack, split, repeat - Hindi**
+
+**Video Link**: [Watch on YouTube](https://youtu.be/rYRXSIoOQxo?si=ewgqkNZFeCxp2TP2)
+
+
+**Video Description**:
+
+📘 Topics Covered:
+1. Introduction to built-in NumPy functions
+2. ravel() usage explained
+3. moveaxis() usage explained
+4. squeeze() usage explained
+5. concatenate() usage explained
+6. stack() usage explained
+7. split() usage explained
+8. tile() usage explained
+9. repeat() usage explained
+10. append() usage explained
+11. unique() usage explained
+
+#NumPy #NumPyFunctions #PythonDSA #PythonProgramming #NumPyTutorial #PythonHindi #DataScienceWithPython #DSAInPython #CodingForBeginners #NumPyArrayManipulation #PythonNumPy #DecodeAiML
+
+---
+
+
 **Decode AiML YouTube Channel** : [@decodeAiML](https://www.youtube.com/@decodeAiML)
 - We are committed to uploading **one topic every day** exclusively on our YouTube channel.
 - All associated **course content** (Jupyter Notebooks, handwritten notes, etc.) will be available here on GitHub.
