@@ -1,13 +1,19 @@
 We're on a mission to build the world's most structured and industry-relevant AI course — crafted to help you crack interviews at MAANG and top startups. And the best part? It's 100% FREE!
 
-## Section 0 - Decode DSA with Python A2Z
+## Section 5 - Complete Pandas - Basic to Advanced
 
-Welcome to the series - **Decode DSA with Python A2Z**. We're laying the foundation for a focused, streamlined, and highly relevant course—designed to help you crack top AI roles at MAANG and leading startups. And the best part? It's absolutely FREE!
+Welcome to the series - **Complete Pandas - Basic to Advanced**.
 
 ## 📚 Table of Content
 
 Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML)
 
+This repository is organized into modular sections to help you **learn progressively**:
+
+| 📦 Section | 📘 Title                                             | 🧭 Status         |
+|------------|------------------------------------------------------|-------------------|
+| 01         | [Inroduction to Pandas](https://decodeaiml.com/05.%20Complete%20Pandas%20-%20Basic%20to%20Advanced/5.01%20Introduction%20to%20Pandas)                                    | ✅ Complete       |
+| 02         | [Creating Pandas DataFrame](https://decodeaiml.com/05.%20Complete%20Pandas%20-%20Basic%20to%20Advanced/5.02%20Creating%20Pandas%20DataFrame)                                    | ✅ Complete       |
 
 
 ---
