@@ -1,7 +1,7 @@
 ## 2.4 Dynamic Array Explained
 ---
 
-**Lecture 2.1) Dynamic Array Explained - Amortized Analysis - Lists in Python - Data Structures - Hindi**
+**Lecture 2.4) Dynamic Array Explained - Amortized Analysis - Lists in Python - Data Structures - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/nmViR9KtYyY?si=jFQQkGeIdax7ndRk)
 
@@ -35,6 +35,7 @@ We're not your average tutorial channel. Decode AiML is built by IIT alumni with
 🎓 Our mission is simple:
 
 Help you crack roles like Applied Scientist, Data Scientist, and ML Engineer at MAANG and other top tech companies — with real-world guidance that bridges the gap between YouTube tutorials and actual interview expectations.
+
 
 
 
