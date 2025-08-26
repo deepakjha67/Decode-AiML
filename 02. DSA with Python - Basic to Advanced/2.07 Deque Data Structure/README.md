@@ -5,7 +5,7 @@
 
 **Video Link**: [Watch on YouTube](https://youtu.be/7LwoSimVUXA?si=eLvRsD-qAxcbuRud)
 
-**Notes Link** : [Deque in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.07%20Dequeue%20Data%20Structure)
+**Notes Link** : [Deque in Python](https://github.com/Decode-AI-By-Sanjeev/Decode-AiML/tree/main/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.07%20Deque%20Data%20Structure)
 
 
 **Video Description**:

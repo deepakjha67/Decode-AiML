@@ -18,9 +18,9 @@ This repository is organized into modular sections to help you **learn progressi
 | 04         | [Dynamic Array ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.04%20Dynamic%20Array%20Explained)              |  ✅ Complete       |
 | 05         | [Tower of Hanoi ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.05%20Tower%20of%20Hanoi)              |  ✅ Complete       |
 | 06         | [Stack and Deque ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.06%20Stack%20and%20Queue%20Data%20Structure)              |  ✅ Complete       |
-| 07         | [Dequeue Data Structure ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.07%20Dequeue%20Data%20Structure)              |  ✅ Complete       |
+| 07         | [Deque Data Structure ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.07%20Deque%20Data%20Structure)              |  ✅ Complete       |
 | 08         | [Introduction to Linked List ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.08%20Introduction%20to%20Linked%20List)              |  ✅ Complete       |
-| 09         | [Hands-0n Linked List ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.09%20Hands-On%20Linked%20List)              |  ✅ Complete       |
+| 09         | [Hands-On Linked List ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.09%20Hands-On%20Linked%20List)              |  ✅ Complete       |
 | 10         | [Types of Linked List ](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced/2.10%20Types%20of%20LInked%20List)              |  ✅ Complete       |
 
 
