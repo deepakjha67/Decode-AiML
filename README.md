@@ -19,18 +19,19 @@ This repository is organized into modular sections to help you **learn progressi
 | 02         | [DSA in Python - Basic to Advanced](https://decodeaiml.com/02.%20DSA%20with%20Python%20-%20Basic%20to%20Advanced)                             | ⏳ In Progress     |
 | 03         | [DSA Coding Practice - Basic to Advanced](https://decodeaiml.com/03.%20DSA%20Coding%20Practice%20-%20Basic%20to%20Advanced)                        | ⏳ In Progress     |
 | 04         | [Complete NumPy - Basic to Advanced](https://decodeaiml.com/04.%20Complete%20NumPy%20-%20Basic%20to%20Advanced)                              | ✅ Complete       |
-| 05         | [Complete Pandas - Basic to Advanced](https://decodeaiml.com/05.%20Complete%20Pandas%20-%20Basic%20to%20Advanced)                              | ⏳ In Progress    |
-| 06         | ML Coding Practice - Basic to Advanced                        | 🔄 Loading...     |
-| 07         | Calculus and Optimization - Basic to advanced                  | 🔄 Loading...     |
-| 08         | Linear Algebra - Basic to advanced                             | 🔄 Loading...     |
-| 09         | Statistics and Probability - Basic to advanced                 | 🔄 Loading...     |
-| 10         | Machine Learning - Basic to advanced                           | 🔄 Loading...     |
-| 11         | Deep Learning - Basic to advanced                              | 🔄 Loading...     |
-| 12         | Generative AI - Basic to advanced                              | 🔄 Loading...     |
-| 13         | AI Development Tools - Basic to advanced                       | 🔄 Loading...     |
-| 14         | ML Model Deployment - Basic to advanced                        | 🔄 Loading...     |
-| 15         | Recommendation Engine - Basic to advanced                      | 🔄 Loading...     |
-| 16         | ML Design Interview - Basic to advanced                        | 🔄 Loading...     |
+| 05         | [Complete Pandas - Basic to Advanced](https://decodeaiml.com/05.%20Complete%20Pandas%20-%20Basic%20to%20Advanced)                              | ✅ Complete    |
+| 06         | EDA & Feature Engineering - Basic to Advanced                  | ⏳ In Progress    |
+| 07         | ML Coding Practice - Basic to Advanced                        | 🔄 Loading...     |
+| 08         | Calculus and Optimization - Basic to advanced                  | 🔄 Loading...     |
+| 09         | Linear Algebra - Basic to advanced                             | 🔄 Loading...     |
+| 10         | Statistics and Probability - Basic to advanced                 | 🔄 Loading...     |
+| 11         | Machine Learning - Basic to advanced                           | 🔄 Loading...     |
+| 12         | Deep Learning - Basic to advanced                              | 🔄 Loading...     |
+| 13         | Generative AI - Basic to advanced                              | 🔄 Loading...     |
+| 14         | AI Development Tools - Basic to advanced                       | 🔄 Loading...     |
+| 15         | ML Model Deployment - Basic to advanced                        | 🔄 Loading...     |
+| 16         | Recommendation Engine - Basic to advanced                      | 🔄 Loading...     |
+| 17         | ML Design Interview - Basic to advanced                        | 🔄 Loading...     |
 
 
 
