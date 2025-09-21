@@ -160,7 +160,7 @@ Github Code Repository Link: [Decode-AiML Repository](https://github.com/Decode-
 
 ---
 
-**Lecture 6.8) Data Leakage in Machine Learning | Types of Data Leakage | Hindi**
+**Lecture 6.8) Data Leakage in Machine Learning - Types of Data Leakage - Hindi**
 
 **Video Link**: [Watch on YouTube](https://youtu.be/kToxX15binM?si=HEkiCSTSlGGACPH1)
 
